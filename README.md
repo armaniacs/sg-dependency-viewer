@@ -22,6 +22,7 @@ generates `output.dot`.
 You can make security dependency chart with graphviz (/usr/bin/dot).
 `$ dot -T pdf output.dot -O`
 (Please see sample-output.png.)
+[[https://github.com/armaniacs/sg-dependency-viewer/blob/master/sample-output.png?raw=true]]
 
 # Usage
 
